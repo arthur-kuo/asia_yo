@@ -18,7 +18,7 @@
 
 
 ### Strategy Pattern:
-	1. currency.py中, 藉由封裝各種
+	1. Validator.py中, 藉由封裝各種Validator, 需要時可選用
 
 
 
